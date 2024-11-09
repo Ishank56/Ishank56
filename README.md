@@ -3,7 +3,7 @@
 ## Hi I'm Ishank 👋
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about  Java, DSA and MERN Stack<br><br>📫 How to reach me arpitapatil14903@gmail.com
+🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about  Java, DSA and MERN Stack<br><br>📫 How to reach me ishank.d.goel@gmail.com
 
 
 ## 🌐 Socials:
